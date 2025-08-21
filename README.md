@@ -23,7 +23,9 @@ The project demonstrates a full ML pipeline from data inspection to model evalua
 
 ## 📂 Files in this repository
 - cellphone-price-range-prediction.ipynb — Main Jupyter Notebook (full code, plots, explanations).  
-- requirements.txt — Required Python packages.  
+- requirements.txt — Required Python packages.
+- Readme.md
+- .gitignore 
    
   
 
