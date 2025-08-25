@@ -25,7 +25,10 @@ The project demonstrates a full ML pipeline from data inspection to model evalua
 - cellphone.ipynb — Main Jupyter Notebook (full code, plots, explanations).  
 - requirements.txt — Required Python packages.
 - Readme.md
-- .gitignore 
+- .gitignore
+- best_model.pkl
+- app.py
+- scaler.pkl
    
   
 
